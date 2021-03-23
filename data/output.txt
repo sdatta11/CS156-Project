@@ -1,0 +1,60 @@
+--------------------------------------------------
+Sale Report: 
+--------------------------------------------------
+Sale: saleCode
+Store: StoreCode
+Customer: 
+Smith,John[jsmith@gmail.com, jsmith2@gmail.com]
+Address [street=Vine st, city=Lincoln, state=Nebraska, zip=77503, country=USA]
+
+Sales Person:
+Mendoza,Jason
+Items:     Total
+
+gameboy
+(PU code) $8.0
+giftCard
+(PG codegiftcard)  $5.0
+name
+(SV codeservice)  $43.13
+name
+(SB codesubscription)   $19.07
+Total:   $75.2
+Tax:    $2.17
+Discount(15%): $11.0
+Grand Total:  $66.37
+
+Sale: saleCode
+Store: StoreCode
+Customer: 
+Smith,John[jsmith@gmail.com, jsmith2@gmail.com]
+Address [street=Vine st, city=Lincoln, state=Nebraska, zip=77503, country=USA]
+
+Sales Person:
+Cena,John
+Items:  Total
+
+gameboy
+(PU code) $8.0
+giftCard
+(PG codegiftcard)  $6.0
+name
+(SV codeservice) $43.13
+name
+(SB codesubscription) $19.07
+Total: $76.2
+Tax:  $2.24
+Discount(15%):  $11.0
+Grand Total: $67.44
+
+--------------------------------------------------
+Sales Person Summary Report: 
+--------------------------------------------------
+Employee:     Number of Sales:     Grand Total:  
+Cena, John, 1, 67.44 
+Mendoza, Jason, 1, 66.37 
+--------------------------------------------------
+Store summary report: 
+--------------------------------------------------
+Store Code:   Manager:     Sales:    Total:  
+StoreCode    Cena, John      2        133.81 

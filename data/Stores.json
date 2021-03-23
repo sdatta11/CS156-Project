@@ -1,0 +1,52 @@
+{
+  "storeCode": "StoreCode",
+  "address": {
+    "street": "Street",
+    "city": "City",
+    "state": "State",
+    "zip": "12345",
+    "country": "USA"
+  },
+  "manager": {
+    "code": "ManagerCode",
+    "type": "E",
+    "lastName": "Cena",
+    "firstName": "John",
+    "address": {
+      "street": "321 james street",
+      "city": "Beverly Hills",
+      "state": "California",
+      "zip": "90210",
+      "country": "USA"
+    },
+    "email": [
+      "jcena@outlook.com"
+    ]
+  }
+}
+{
+  "storeCode": "Store1234",
+  "address": {
+    "street": "Street 123",
+    "city": "City 123",
+    "state": "State 123",
+    "zip": "54321",
+    "country": "USA"
+  },
+  "manager": {
+    "code": "ManagerCode123",
+    "type": "E",
+    "lastName": "Baldwin",
+    "firstName": "Eric",
+    "address": {
+      "street": "123 main street",
+      "city": "atlanta",
+      "state": "georgia",
+      "zip": "12345",
+      "country": "USA"
+    },
+    "email": [
+      "ebaldwin@yahoo.com"
+    ]
+  }
+}

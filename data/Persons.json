@@ -1,0 +1,66 @@
+{
+  "code": "1234",
+  "type": "E",
+  "lastName": "Smith",
+  "firstName": "John",
+  "address": {
+    "street": "Vine st",
+    "city": "Lincoln",
+    "state": "Nebraska",
+    "zip": "77503",
+    "country": "USA"
+  },
+  "email": [
+    "jsmith@gmail.com",
+    "jsmith2@gmail.com"
+  ]
+}
+{
+  "code": "1357",
+  "type": "E",
+  "lastName": "Mendoza",
+  "firstName": "Jason",
+  "address": {
+    "street": "Main street",
+    "city": "Miami",
+    "state": "Florida",
+    "zip": "11203",
+    "country": "USA"
+  },
+  "email": [
+    "jmendoza@gmail.com",
+    "jmendoza2@gmail.com"
+  ]
+}
+{
+  "code": "ManagerCode123",
+  "type": "E",
+  "lastName": "Baldwin",
+  "firstName": "Eric",
+  "address": {
+    "street": "123 main street",
+    "city": "atlanta",
+    "state": "georgia",
+    "zip": "12345",
+    "country": "USA"
+  },
+  "email": [
+    "ebaldwin@yahoo.com"
+  ]
+}
+{
+  "code": "ManagerCode",
+  "type": "E",
+  "lastName": "Cena",
+  "firstName": "John",
+  "address": {
+    "street": "321 james street",
+    "city": "Beverly Hills",
+    "state": "California",
+    "zip": "90210",
+    "country": "USA"
+  },
+  "email": [
+    "jcena@outlook.com"
+  ]
+}

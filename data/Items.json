@@ -1,0 +1,53 @@
+{
+  "basePrice": 5.0,
+  "quantity": 0.0,
+  "code": "code",
+  "type": "PU",
+  "name": "gameboy"
+}
+{
+  "basePrice": 0.0,
+  "quantity": 0.0,
+  "code": "codegiftcard",
+  "type": "PG",
+  "name": "giftCard"
+}
+{
+  "annualFee": 120.0,
+  "startDate": {
+    "year": 2021,
+    "month": 1,
+    "day": 2
+  },
+  "endDate": {
+    "year": 2021,
+    "month": 3,
+    "day": 1
+  },
+  "code": "codesubscription",
+  "type": "SB",
+  "name": "name"
+}
+{
+  "hourlyRate": 12.5,
+  "employee": {
+    "code": "ManagerCode",
+    "type": "E",
+    "lastName": "Cena",
+    "firstName": "John",
+    "address": {
+      "street": "321 james street",
+      "city": "Beverly Hills",
+      "state": "California",
+      "zip": "90210",
+      "country": "USA"
+    },
+    "email": [
+      "jcena@outlook.com"
+    ]
+  },
+  "hoursWorked": 3.45,
+  "code": "codeservice",
+  "type": "SV",
+  "name": "name"
+}
