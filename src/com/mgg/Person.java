@@ -10,7 +10,7 @@ import java.util.List;
  */
 
 public class Person {
-
+ 
 	private String code;
 	private String type;
 	private String lastName;

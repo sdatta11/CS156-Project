@@ -8,7 +8,7 @@ package com.mgg;
 
 public class Service extends Item {
 
-	
+	 
 
 	private double hourlyRate;
 	private Person employee;

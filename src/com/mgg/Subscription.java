@@ -11,7 +11,7 @@ import java.time.LocalDate;
 
 
 public class Subscription extends Item{
-	
+	 
 	private double annualFee;
 	private LocalDate startDate;
 	private LocalDate endDate;

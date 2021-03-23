@@ -10,7 +10,7 @@ public abstract class Item {
 	private String type;
 	private String name;
 	
-	
+	 
 	public Item(String code, String type, String name) {
 		this.code = code;
 		this.type = type;

@@ -8,7 +8,7 @@ import java.util.List;
  * and a grand total for the items in the list.
  *
  */
-
+ 
 public class Sale {
 
 	private Person customer;

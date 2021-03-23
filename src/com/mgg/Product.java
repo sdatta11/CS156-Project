@@ -10,7 +10,7 @@ public class Product extends Item{
 
 	private double basePrice;
 	private double quantity;
-	
+	 
 	public Product(String code, String type, String name, double basePrice) {
 		super(code, type, name);
 		this.basePrice = basePrice;

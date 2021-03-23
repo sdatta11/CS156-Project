@@ -10,7 +10,7 @@ import java.util.List;
  */
 
 public class Store {
-	
+ 	
 	private String storeCode;
 	private Address address;
 	private Person manager;

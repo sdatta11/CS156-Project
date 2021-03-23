@@ -14,7 +14,7 @@ import java.time.temporal.ChronoUnit;
  */
 
 
-
+ 
 public class Report {
 
 	public static void SalesReport(List<Sale> sales){

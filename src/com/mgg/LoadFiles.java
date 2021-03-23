@@ -16,7 +16,7 @@ import java.util.Scanner;
  */
 
 public class LoadFiles {
-
+ 
 	public static List<Person> loadPersonsFile() {
 		//initialize variables and scanners
 		Scanner s = null;
